@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+👨🏻‍💻 Officially, I am working as a Front End Developer. I spend most of my 9 - 5  time  creating things with React JS.
+
+💻 Currently, I am trying to get my hands dirty with Svelte JS as well. Fork my repo [pwd-protect](https://github.com/kapoorabhi/pwd-protect "pwd-protect") to checkout the source code.
+
+⚽ Evenings are dedicated to a game of FIFA with a cup of tea. ☕
+
+
 <!--
 **kapoorabhi/kapoorabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
