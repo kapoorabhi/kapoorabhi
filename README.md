@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-👨🏻‍💻 Officially, I am working as a Front End Developer. I spend most of my 9 - 5  time  creating things with React JS.
+👨🏻‍💻 Officially, I am working as a Front-End Engineer. I spend most of my 9 - 5  time  creating things with React JS.
 
 💻 Currently, I am trying to get my hands dirty with Svelte JS as well. Fork my repo [pwd-protect](https://github.com/kapoorabhi/pwd-protect "pwd-protect") to checkout the source code.
 
