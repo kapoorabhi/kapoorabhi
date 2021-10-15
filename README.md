@@ -10,7 +10,7 @@
 Few things I like to spend my time on.
 
  - [Code Wars](https://www.codewars.com/users/kapoorabhi)
- - Front-End Masters
+ - [Front-End Masters](https://frontendmasters.com/)
 
 
 <!--
